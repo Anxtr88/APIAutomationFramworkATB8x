@@ -1,4 +1,4 @@
 package com.APITestingPrograms.tests.integration.crud;
 
-public class TestIntegrationFlow {
+public class TestIntegrationFlow    {
 }

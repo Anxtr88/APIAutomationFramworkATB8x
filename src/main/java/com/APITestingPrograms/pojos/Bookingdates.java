@@ -1,4 +1,4 @@
-package com.APITestingPrograms.PayLoadMangement.Pojo_gson;
+package com.APITestingPrograms.pojos;
 
 
 import com.google.gson.annotations.Expose;
